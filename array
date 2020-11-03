@@ -1,0 +1,9 @@
+import numpy as np
+
+#一个关于
+a = np.array([0, 1, 2, 3, 4])
+b = np.array((0, 1, 2, 3, 4))
+print(a, type(a))
+# [0 1 2 3 4] <class 'numpy.ndarray'>
+print(b, type(b))
+# [0 1 2 3 4] <class 'numpy.ndarray'>
